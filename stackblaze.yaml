@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: nextchat
+    runtime: docker
+    plan: starter
+    autoDeploy: false
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: CODE
+        generateValue: true
