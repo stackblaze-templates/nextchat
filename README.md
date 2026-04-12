@@ -1,6 +1,6 @@
-<p align="center"><img src="logo.png" alt="nextchat" width="120"></p>
-
 # NextChat [![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com) [![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/nextchat/actions) [![License](https://img.shields.io/github/license/stackblaze-templates/nextchat)](LICENSE) [![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
+
+<p align="center"><img src="logo.png" alt="nextchat" width="120"></p>
 
 A self-hosted ChatGPT web UI supporting OpenAI, Azure, Google, Anthropic, and other AI providers.
 
