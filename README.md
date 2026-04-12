@@ -1,4 +1,4 @@
-# NextChat [![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com) [![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/nextchat/actions) [![License](https://img.shields.io/github/license/stackblaze-templates/nextchat)](LICENSE) [![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
+# NextChat [![Version](https://img.shields.io/badge/version-latest-25b864)](https://github.com/stackblaze-templates/nextchat) [![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com) [![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/nextchat/actions) [![License](https://img.shields.io/github/license/stackblaze-templates/nextchat)](LICENSE) [![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
 
 <p align="center"><img src="logo.png" alt="nextchat" width="120"></p>
 
