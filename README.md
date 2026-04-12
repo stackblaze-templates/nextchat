@@ -1,19 +1,12 @@
-# NextChat
+<p align="center"><img src="logo.png" alt="nextchat" width="120"></p>
 
-<p align="center"><img src="logo.png" alt="NextChat" width="120"></p>
-
-
-[![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com)
-[![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/nextchat/actions)
-[![License](https://img.shields.io/github/license/stackblaze-templates/nextchat)](LICENSE)
+# NextChat [![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com) [![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/nextchat/actions) [![License](https://img.shields.io/github/license/stackblaze-templates/nextchat)](LICENSE) [![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
 
 A self-hosted ChatGPT web UI supporting OpenAI, Azure, Google, Anthropic, and other AI providers.
 
 > **Credits**: Built on [NextChat](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) by [Yidadaa](https://github.com/Yidadaa). All trademarks belong to their respective owners.
 
 ## Deploy on StackBlaze
-
-[![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
 
 This template includes a `stackblaze.yaml` for one-click deployment on [StackBlaze](https://stackblaze.com).
 
