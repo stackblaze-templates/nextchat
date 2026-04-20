@@ -1,6 +1,6 @@
 services:
   nextchat:
-    image: yidadaa/chatgpt-next-web:latest
+    image: yidadaa/chatgpt-next-web:v2.16.1
     ports:
       - "3000:3000"
     environment:

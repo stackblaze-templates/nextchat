@@ -81,6 +81,26 @@ flowchart LR
 
 ---
 
+## Security
+
+### Required environment variables
+
+Set the following environment variables before going to production:
+
+| Variable | Description | Required |
+|---|---|---|
+| `OPENAI_API_KEY` | Your OpenAI (or compatible) API key | **Yes** |
+| `CODE` | Access password protecting the UI from unauthorized use | Strongly recommended |
+
+> **Warning — production checklist:**
+> - `CODE` is your only built-in access control. If left unset, **anyone** who can reach the URL can use your API key. Always set a strong `CODE` value in production.
+> - Treat `OPENAI_API_KEY` as a secret — never commit it to source control. Use the `.env` file locally (it is git-ignored) and inject it via your hosting platform's secret manager in production.
+> - NextChat stores conversation history in the browser only; no server-side data persistence is configured by default.
+
+---
+
+
+
 ### Maintained by [StackBlaze](https://stackblaze.com)
 
 This template is actively maintained by StackBlaze. We perform **weekly automated checks** to ensure:
